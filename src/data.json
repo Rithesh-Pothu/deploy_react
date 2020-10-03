@@ -1,0 +1,22 @@
+{
+  "details": [
+    {
+      "card": {
+        "name": "Rithesh",
+        "email": "rithesh.441@gmail.com",
+        "mobile": "997743553",
+        "description": "Apssdc Trainer"
+      },
+      "career": "I want to be a Trainer"
+    },
+    {
+      "card": {
+        "name": "Venkat",
+        "email": "reagaltossoul@gmail.com",
+        "mobile": "938465237094",
+        "description": "lqkejrw"
+      },
+      "career": "I want to be a TDeveloper"
+    }
+  ]
+}
